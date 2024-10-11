@@ -1,0 +1,14 @@
+TODO: Your job is to write 2 functional requirements for canvas. Use the format we've discussed in class or no credit
+    will be given. Don't forget to consider how different people use software.
+
+1. As a student, I want to access my grades, so that I can see how I am doing in the class.
+
+2. As a student, I want to see the other students in my class section, so I can contact them when working in group projects.
+
+TODO: Your job is to write 2 non-functional requirements for canvas. They don't need to be entirely accurate since I know
+    you likely don't know the specifics of the software. Just make sure they are reasonable and follow FURPS+ (and no,
+    Canvas was not written in Java).
+
+1. Canvas works on all browsers, so all students using Chrome/Firefox/Safari should be able to access the page.
+
+2. Canvas works on both android / apple devices, so that both android and apple users can access canvas on their phone.

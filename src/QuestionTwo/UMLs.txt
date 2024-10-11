@@ -1,0 +1,15 @@
+TODO: Look at the UML diagram in this package. It corresponds with the GenericQueue.java file in the QuestionThree package.
+    Identify 3 issue present within the UML diagram. Not only should you identify the issues, but you should also
+    provide a solution to the issue.
+
+Issue 1: The printQueue is not correctly formatted as a static function
+
+Solution 1: Underline the function
+
+Issue 2: size int is a private member, but denoted as public
+
+Solution 2: Set the + next to size int as a - to denote as private.
+
+Issue 3: genericQueue class declared as void
+
+Solution 3: As constructors have no return type at all, none should be given. Should just be class name.
